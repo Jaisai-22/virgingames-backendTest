@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.virgingames.testinfo.VirginGameTest" skipped="0" tests="1" time="9.28" timestamp="2021-07-29T23:53:35.373+01:00[Europe/London]"><testcase classname="com.virgingames.testinfo.VirginGameTest" name="Verifying That the startTime is always future timeStamp"/></testsuite>

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin game test","This test will get all default game frequency = 300000","SUCCESS","2021-07-29T23:43:25.250+01:00[Europe/London]","0.0","32.85"
+"Virgin game test","Verifying That the startTime is always future timeStamp","SUCCESS","2021-07-29T23:43:58.167+01:00[Europe/London]","0.0","0.56"

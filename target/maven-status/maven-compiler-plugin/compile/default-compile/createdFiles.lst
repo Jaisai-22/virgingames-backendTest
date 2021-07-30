@@ -1,0 +1,4 @@
+com\virgingames\constant\EndPoints.class
+com\virgingames\App.class
+com\virgingames\stepinfo\VirginGameStep.class
+com\virgingames\utils\PropertyReader.class
